@@ -21,7 +21,7 @@ This project is ideal for **beginners in Python and Flask**, and it demonstrates
 
 ---
 
-## 🚀 Live Demo (Optional)
+## 🚀 Live Demo
 
 > Coming soon (if deployed)
 
