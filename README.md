@@ -143,7 +143,7 @@ http://127.0.0.1:5000/3
 | Route             | Description              | Example                                                             |
 | ----------------- | ------------------------ | ------------------------------------------------------------------- |
 | `/`               | Prompt to guess a number | ![Prompt](https://media3.giphy.com/media/v1.Y2lk.../giphy.gif)      |
-| `/2`              | Too Low                  | ![Low](https://media.giphy.com/media/jD4DwBtqPXRXa/giphy.gif)       |
+| `/2`              | Too Low                  | ![Low](https://media3.giphy.com/media/v1.Y2lk.../giphy.gif)         |
 | `/8`              | Too High                 | ![High](https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif) |
 | `/correct_number` | You found it!            | ![Win](https://media.giphy.com/media/4T7e4DmcrP9du/giphy.gif)       |
 
